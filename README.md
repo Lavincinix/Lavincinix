@@ -1,16 +1,39 @@
-### Hi there 👋
+### Frontend knowledges
+- 🖥️ JavaScript
+- 🙈 TypeScript
+- 👀 ReactJS
+- 📦 NextJS
+- 👨‍💻 CSS & SCSS
+- 📋 HTML5 & XML
+- 🐘 PHP
+- 🔌 Modern ECMAScript
+- 🏹 Jest
+- Others
 
-<!--
-**Lavincinix/Lavincinix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend knowledges
+- 😇 Node
+- 📍 REST
+- 💿 SQL: Postgres & MariaDB/MySQL 
+- 🚂 NoSQL: Redis
+- 🐳 Docker
+- Others
 
-Here are some ideas to get you started:
+### Other technologys
+- 💻 VSCode
+- 🥑 AWS & DO & OVH & others
+- 📟 Bash
+- 🧐 Windows & MacOS & Debian derivatives
+- 🧡 Cloudflare
+- 💼 Git
+- Others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Others knowledges, but i not really used a loooooottt.
+- 📡 C & C++
+- 🦀 Rust
+- 🦫 Go
+- 🤖 Arduino
+- Others
+
+And yes. I say others knowledges?
+
+Cool mail: angel@lavin.cool
